@@ -5,7 +5,7 @@ import {
   AiOutlineTwitter,
   AiFillInstagram,
 } from "react-icons/ai";
-import { FaLinkedinIn } from "react-icons/fa";
+import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
 
 function Footer() {
   let date = new Date();
@@ -23,40 +23,36 @@ function Footer() {
           <ul className="footer-icons">
             <li className="social-icons">
               <a
-                href="https://github.com/soumyajit4419"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
+                href="https://github.com/asepsyafrudin"
+                target="_blank"
+                rel="noreferrer"
               >
                 <AiFillGithub />
               </a>
             </li>
             <li className="social-icons">
               <a
-                href="https://twitter.com/Soumyajit4419"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
+                href="https://www.facebook.com/aasseep"
+                target="_blank"
+                rel="noreferrer"
               >
-                <AiOutlineTwitter />
+                <FaFacebook />
               </a>
             </li>
             <li className="social-icons">
               <a
-                href="https://www.linkedin.com/in/soumyajit4419/"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
+                href="https://www.linkedin.com/in/asep-syafrudin/"
+                target="_blank"
+                rel="noreferrer"
               >
                 <FaLinkedinIn />
               </a>
             </li>
             <li className="social-icons">
               <a
-                href="https://www.instagram.com/soumyajit4419"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
+                href="https://www.instagram.com/asseeppsyafrudin/"
+                target="_blank"
+                rel="noreferrer"
               >
                 <AiFillInstagram />
               </a>
