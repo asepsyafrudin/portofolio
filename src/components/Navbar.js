@@ -14,6 +14,7 @@ import {
 } from "react-icons/ai";
 
 import { CgFileDocument } from "react-icons/cg";
+import { PiCertificate } from "react-icons/pi";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);
@@ -87,7 +88,7 @@ function NavBar() {
                 to="/certificate"
                 onClick={() => updateExpanded(false)}
               >
-                <CgFileDocument style={{ marginBottom: "2px" }} /> Certificate
+                <PiCertificate style={{ marginBottom: "2px" }} /> Certificate
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
@@ -112,7 +113,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/soumyajit4419/Portfolio"
+                href="https://github.com/asepsyafrudin"
                 target="_blank"
                 className="fork-btn-inner"
               >
