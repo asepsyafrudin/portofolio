@@ -20,8 +20,9 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              "I have a strong passion for the world of programming and enjoy
-              exploring new technologies.
+              "I have been working as Project Manager for 5 years and I have a
+              strong passion for the world of programming and enjoy exploring
+              new technologies.
               {/* 🤷‍♂️ */}
               <br />
               <br />
@@ -34,25 +35,31 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              My fields of interest revolve around building innovative
               <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to <b className="purple">IOT and AI.</b>
-                &nbsp; Some of the systems that I develop are integrated with
-                hardware such as{" "}
-                <b className="purple">Arduino, Raspberry Pi, and PLCs</b>
+                <b className="purple">Web Technologies and Digital Products</b>
               </i>
+              that create real-world impact. I am particularly passionate about
+              working in areas related to
+              <b className="purple">IoT and Artificial Intelligence</b>, where
+              software meets the physical world. Some of the systems I develop
+              are tightly integrated with hardware such as
+              <b className="purple">Arduino and PLCs</b>, enabling smart
+              automation and industrial solutions. I also build cross-platform
+              mobile applications using
+              <b className="purple">React Native</b>. In addition, I have a
+              strong interest in developing
+              <b className="purple">Computer Vision Systems</b> using
+              technologies such as
+              <b className="purple">YOLO Object Detection</b> and{" "}
+              <b className="purple">OpenCV</b> for intelligent visual analysis.
               <br />
               <br />
-              Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks like React,
-                  Bootstrap, and Express.js
-                </b>
-              </i>
+              Whenever possible, I bring ideas to life by developing scalable
+              products using
+              <b className="purple">Node.js</b> and modern JavaScript ecosystems
+              including
+              <b className="purple">React, Bootstrap, and Express.js</b>.
               {/* &nbsp; like
               <i>
                 <b className="purple"> React.js and Next.js</b>
