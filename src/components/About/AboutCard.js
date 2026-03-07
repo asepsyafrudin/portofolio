@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Asep Syafrudin </span>
             from <span className="purple"> Jakarta, Indonesia.</span>
             <br />
-            I am currently employed as a software developer at PT Denso
+            I am currently employed as a Assistance Section Manager at PT Denso
             Indonesia.
             <br />
             I graduate from Politeknik Manufactur Astra as Associate Degree ,
